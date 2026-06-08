@@ -12,33 +12,15 @@ A detailed schedule will be provided to accepted participants before the start o
 
 ## Lectures
 
-### Atmospheric Boundary Layer Fundamentals
-
-Introduction to atmospheric boundary layer processes, turbulence, and surface–atmosphere interactions.
-
-### Surface Energy Balance
-
-Components of the surface energy balance and their role in oceanic and cryospheric environments.
-
-### Boundary Layers over Ocean and Glacier Surfaces
-
-Comparison of atmospheric processes over ocean, snow, ice, and glacier surfaces.
-
-### Eddy Covariance Theory and Applications
-
-Fundamentals of turbulent flux measurements and eddy covariance methodology.
-
-### Micrometeorological Observations and Instrumentation
-
-Eddy covariance systems, automatic weather stations, and radiosoundings.
-
-### Climate Change, Extreme Events, and the Cryosphere
-
-Impacts of atmospheric rivers and extreme weather events on glaciers, snow cover, and polar environments.
-
-### Data Analysis with Python
-
-Introduction to Python workflows for micrometeorological and atmospheric datasets.
+| Lecture                                                  | Description                                                                                               |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Atmospheric Boundary Layer Fundamentals**              | Introduction to atmospheric boundary layer processes, turbulence, and surface–atmosphere interactions.    |
+| **Surface Energy Balance**                               | Components of the surface energy balance and their role in oceanic and cryospheric environments.          |
+| **Boundary Layers over Ocean and Glacier Surfaces**      | Comparison of atmospheric processes over ocean, snow, ice, and glacier surfaces.                          |
+| **Eddy Covariance Theory and Applications**              | Fundamentals of turbulent flux measurements and eddy covariance methodology.                              |
+| **Micrometeorological Observations and Instrumentation** | Eddy covariance systems, automatic weather stations, and radiosoundings.                                  |
+| **Climate Change, Extreme Events, and the Cryosphere**   | Impacts of atmospheric rivers and extreme weather events on glaciers, snow cover, and polar environments. |
+| **Data Analysis with Python**                            | Introduction to Python workflows for micrometeorological and atmospheric datasets.                        |
 
 ## Projects
 

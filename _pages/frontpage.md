@@ -5,7 +5,7 @@ title: Welcome
 list_title: Home
 ---
 
-<img src="assets/imgs/TROPIPOLAR-GLASCLIM-CARD1.png" width="750"> <br>
+<img src="assets/imgs/curso.png" width="750"> <br>
 
 # International Training Course on the Atmospheric Boundary Layer and Energy Balance over Glacier and Ocean Surfaces
 
