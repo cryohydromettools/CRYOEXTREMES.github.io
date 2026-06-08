@@ -7,8 +7,6 @@ list_title: Home
 
 <img src="assets/imgs/curso.png" width="750"> <br>
 
-# International Training Course on the Atmospheric Boundary Layer and Energy Balance over Glacier and Ocean Surfaces
-
 ## Overview
 
 The **International Training Course on the Atmospheric Boundary Layer and Energy Balance over Glacier and Ocean Surfaces** will take place from **19–23 October 2026** at the **Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG), Rio Grande, Brazil**.
@@ -31,7 +29,7 @@ Applications are now open.
 
 Participation is limited to approximately **10–15 Master's and PhD students** due to the hands-on nature of the training course.
 
-If you are interested in participating, please submit your application **[HERE](INSERT_APPLICATION_LINK)** before **10 July 2026**.
+If you are interested in participating, please submit your application **[HERE](INSERT_APPLICATION_LINK)** by **10 July 2026**.
 
 For inquiries, please contact:
 
@@ -104,8 +102,11 @@ Course organizers:
 <br>
 
 Jorge Arigony-Neto (Universidade Federal do Rio Grande – FURG, Brazil)
-
+Luciano Pezzi (National Institute for Space Research – INPE, Brazil)
+Marcelo Freitas Santini (National Institute for Space Research – INPE, Brazil)
 Christian Torres (National Institute for Space Research – INPE, Brazil)
+
+Jean Emmanuel Sicart (Institut des Géosciences de l’Environnement – IGE, France)
 
 <br>
 
@@ -117,7 +118,9 @@ Contact: [cryohydromettools@gmail.com](mailto:cryohydromettools@gmail.com)
 
 The course is sponsored by the project **“Extreme Events and Climate Change: Impacts on the Cryosphere from the Tropical to the Polar Regions (TROPIPOLAR-CRYOEXTREMES)”**, supported through international scientific cooperation between Brazil and France.
 
-The training activity is also supported by the Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG), the Laboratory of Ocean and Atmosphere Studies of the National Institute for Space Research (LOA-INPE), and the Institut des Géosciences de l’Environnement of the Université Grenoble Alpes (IGE-UGA).
+The course also receives support from the **Antarctic Modeling Observation System (ATMOS2) Project**, led by the **[Laboratory of Ocean and Atmosphere Studies of the National Institute for Space Research (LOA-INPE)](https://loa-inpe.github.io/en/)**, which focuses on advancing the understanding of air–sea interactions, atmospheric boundary layer processes, and turbulent fluxes over the South Atlantic Ocean and the Antarctic region.
+
+The training activity is further supported by the **Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG)**, the **LOA-INPE**, and the **Institut des Géosciences de l’Environnement of the Université Grenoble Alpes (IGE-UGA)**.
 
 <br>
 
@@ -130,7 +133,6 @@ The course is supported by the following institutions:
 <img src="assets/imgs/Workshop-Huaraz_Logos_V2.png" width="750"> <br>
 
 
--->
 <br>
 <br>
 <br>
