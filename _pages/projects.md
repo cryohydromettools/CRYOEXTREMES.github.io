@@ -1,37 +1,65 @@
 ---
 permalink: /projects
 layout: page
-title: Proyectos
+title: Project
 ---
 
-El objetivo principal de este taller es trabajar en un proyecto con uno de los instructores durante tres días. Hay tres opciones para los participantes: puedes unirte a uno de los dos proyectos preestablecidos, destinados a aprender los fundamentos del modelo físico y del aprendizaje automático aplicado al modelamiento del balance de masa glaciar, o puedes traer tu propio proyecto. 
+The practical component of this training course is organized around three project options. Participants may choose one of the predefined projects focused on atmosphere–surface interactions over oceanic and cryospheric environments, or they may bring their own dataset and research question.
 
-### [ Proyecto 1 ] - [Modelamiento del balance de masa superficial glaciar mediante un modelo físico](https://github.com/cryohydromettools/Proyecto_MB_COSIPY) - *Christian Torres y Claudio Bravo* 
+The projects are designed to provide hands-on experience with real observations collected during the ATMOS field campaigns in the Atlantic Ocean and the Antarctic Peninsula.
+
+### Project 1 – Surface Energy Fluxes Using the Bulk Method over Ocean and Glacier Surfaces
+
+*Jorge Arigony-Neto, Marcelo Santini, and Jean Emmanuel Sicart*
+
 <div>
 <div style="float: left; padding: 10px">
-<img src="assets/imgs/COSIPY_an.png" width="400">
+<img src="assets/imgs/energy_balance.png" width="400">
 </div>
 <div>
-El objetivo de este proyecto será aprender y aplicar un modelo físico glaciológico para simular el balance de masa superficial (BMS) de un glaciar de los Andes peruanos (Cordillera Blanca). Utilizaremos el COupled Snowpack and Ice surface energy and mass balance model in PYthon (COSIPY) para estimar el el BMS. Durante este proyecto utilizaremos información de contorno y topografía del inventario nacional de glaciares para recuperar datos topográficos del glaciar. Además, usaremos datos de reanálisis ERA5 para generar información climática para el glaciar durante 1 año. El modelos se ejecutará en un solo punto y distribuido para ver las diferencias en el BMS del glaciar.
+The objective of this project is to estimate and analyze turbulent heat fluxes over oceanic and glacier environments using bulk aerodynamic methods.
+
+Participants will work with meteorological observations collected during field campaigns in the Atlantic Ocean and at Comandante Ferraz Antarctic Station. Using standard atmospheric measurements, they will calculate sensible and latent heat fluxes and investigate the role of atmospheric stability, roughness lengths, and surface characteristics in controlling atmosphere–surface exchanges.
+
+The project will introduce the physical basis of bulk transfer formulations and provide practical experience in estimating surface energy fluxes in contrasting environments. Participants will also compare the behavior of the atmospheric boundary layer over oceanic and cryospheric surfaces.
+
 </div>
 </div>
+
 <br>
 <br>
 <br>
 
-### [ Proyecto 2 ] - [Modelamiento del balance de masa glaciar mediante Aprendizaje Automático](https://github.com/cryohydromettools/Proyecto_MB_Regresion) - *Facundo Sapienza, Jordi Bolibar, Eduardo Villavicencio*
+### Project 2 – Eddy Covariance Data Processing with EddyPro
+
+*Jorge Arigony-Neto, Marcelo Santini, and Jean Emmanuel Sicart*
+
 <div>
 <div style="float: left; padding: 10px">
-<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/raw/master/assets/imgs/glacier_AI_lq.png" width="400">
+<img src="assets/imgs/eddy_covariance.png" width="400">
 </div>
 <div>
-El objetivo de este proyecto será aprender y aplicar diferentes tipos de métodos de aprendizaje automático y regresión estadística (por ejemplo, Lasso/Ridge, Random Forests, Gradient Boosting, redes neuronales...) para simular el balance de masa glaciar (BM) de todos los glaciares de los Andes Peruanos. Utilizaremos el Open Global Glacier Model (OGGM) para recuperar observaciones glaciologicas y geodésicas del BM, y entrenaremos múltiples modelos de aprendizaje automático utilizando datos topográficos y climáticos. Utilizando un conjunto común de pliegues de validación cruzada, compararemos los distintos métodos de aprendizaje automático para comprender sus puntos fuertes y débiles. Además, aprenderemos a añadir restricciones físicas blandas a los modelos. En caso necesario, el proyecto podría ampliarse para incluir también la dinámica de los flujos de hielo y, finalmente, el aprendizaje basado en la física. 
+The objective of this project is to learn the fundamentals of eddy covariance measurements and the processing of high-frequency micrometeorological observations.
+
+Participants will work with real datasets collected over the Atlantic Ocean and the northern Antarctic Peninsula. Using EddyPro software, they will perform quality control procedures, coordinate rotation, spectral corrections, and turbulent flux calculations.
+
+The project will cover the theory behind turbulent exchanges and provide practical experience in estimating sensible heat, latent heat, and momentum fluxes from raw observations. Participants will learn how to preprocess eddy covariance data and evaluate the quality of flux estimates in different environmental conditions.
+
 </div>
 </div>
+
 <br>
 <br>
 <br>
 
-### [ Proyecto X ] - Traiga su propio proyecto 
+### Project 3 – Bring Your Own Data
 
-Traer su propio proyecto requiere planificación y un objetivo alcanzable para el taller. Para ello, pedimos al participante que explique brevemente el proyecto, su estado actual y los objetivos del taller en el formulario de solicitud. Se recomienda encarecidamente formar equipo con otros participantes para un proyecto, con el fin de fomentar las interacciones y crear colaboraciones. 
+*All instructors*
+
+Participants are encouraged to bring their own atmospheric, oceanographic, cryospheric, or micrometeorological datasets for analysis during the course.
+
+This option is intended for students and researchers who wish to apply the concepts and tools presented in the training course to their own research. Participants may use EddyPro, Python, bulk flux methods, or other approaches discussed during the course.
+
+Applicants choosing this option should briefly describe their dataset, research objectives, and expected outcomes in the application form. The instructors will provide guidance throughout the week to help participants develop a feasible analysis plan and obtain meaningful results.
+
+Collaborative projects involving multiple participants are strongly encouraged to foster scientific interaction and future research collaborations.
