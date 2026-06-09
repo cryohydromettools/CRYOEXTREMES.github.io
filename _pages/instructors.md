@@ -17,13 +17,26 @@ Jorge is an Associate Professor at the Institute of Oceanography of the Universi
 <br>
 <br>
 
-# [Jean Emmanuel Sicart]()
+# [Jean Emmanuel Sicart](https://orcid.org/0000-0003-3332-2738)
 <div>
 <div style="float: left; padding: 10px">
-<img src="assets/imgs/IMG_4476.jpg" width="200">
+<img src="assets/imgs/Sicart.png" width="200">
 </div>
 <div>
-........
+Dr. Jean Emmanuel Sicart is a glaciologist at the IRD in the Institute for Environmental Geosciences
+(IGE). His studies focus on the energy balance of snow covers and glaciers in order improve the
+understanding of climate-glacier relationships.
+He headed the International Laboratory GREATICE and he is involved in the International Research
+Network ANDES, whose objectives are to: strengthen glaciological studies and monitoring networks
+in the tropical Andes, promote collaborative projects between Andean institutions, and develop
+education and student training programs with local universities.
+He was PI of an ANR project on the study of turbulence in glacial environments. Ha was PI and CoPI
+in several LabEx OSUG (University of Grenoble) and international projects investigating energy
+fluxes in mountain environments. He has supervised or co-supervised five PhD. Students. He is
+currently particularly involved in the European project: “Multi-scale transport and exchange processes
+in the atmosphere over mountains – programme and experiment, TEAMX european project”. One of
+the project&#39;s aims is to provide a unique observational dataset, which can be used to study a broad
+range of transport and exchange processes in mountainous terrain and their spatio-temporal variability.
 </div>
 </div>
 <br>

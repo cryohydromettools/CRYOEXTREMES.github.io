@@ -1,7 +1,7 @@
 ---
 permalink: /projects
 layout: page
-title: Project
+title: Projects
 ---
 
 The practical component of this training course is organized around three project options. Participants may choose one of the predefined projects focused on atmosphere–surface interactions over oceanic and cryospheric environments, or they may bring their own dataset and research question.

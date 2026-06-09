@@ -24,17 +24,13 @@ A detailed schedule will be provided to accepted participants before the start o
 
 ## Projects
 
-### Bulk Method
+## Projects
 
-Estimation of sensible and latent heat fluxes over oceanic and glacier surfaces using bulk aerodynamic formulations and standard meteorological observations.
-
-### EddyPro
-
-Processing and quality control of eddy covariance observations using EddyPro software, including flux calculations and interpretation of turbulent exchanges.
-
-### Bring Your Own Data
-
-Participants may bring their own atmospheric, oceanographic, cryospheric, or micrometeorological datasets and receive guidance from the instructors throughout the course.
+|  | Description |
+|----------|-------------|
+| **Bulk Method** | Estimation of sensible and latent heat fluxes over oceanic and glacier surfaces using bulk aerodynamic formulations and standard meteorological observations. |
+| **EddyPro** | Processing and quality control of eddy covariance observations using EddyPro software, including flux calculations and interpretation of turbulent exchanges. |
+| **Bring Your Own Data** | Participants may bring their own atmospheric, oceanographic, cryospheric, or micrometeorological datasets and receive guidance from the instructors throughout the course. |
 
 ## Field Trip
 
