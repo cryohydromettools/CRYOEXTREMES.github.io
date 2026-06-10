@@ -11,11 +11,11 @@ list_title: Home
 
 The **International Training Course on the Atmospheric Boundary Layer and Energy Balance over Glacier and Ocean Surfaces** will take place from **19–23 October 2026** at the **Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG), Rio Grande, Brazil**.
 
-The course is organized within the framework of the project **"Extreme Events and Climate Change: Impacts on the Cryosphere from the Tropical to the Polar Regions (TROPIPOLAR-CRYOEXTREMES)"**, a collaborative initiative involving the Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG, Brazil), the Laboratory of Ocean and Atmosphere Studies of the National Institute for Space Research (LOA-INPE, Brazil), and the Institut des Géosciences de l’Environnement of the Université Grenoble Alpes (IGE-UGA, France).
+The course is organized within the framework of the project **"Extreme Events and Climate Change: Impacts on the Cryosphere from the Tropical to the Polar Regions (TROPIPOLAR-CRYOEXTREMES)"**, a collaborative initiative involving the **[Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG), Brazil](https://io.furg.br/)**, the **[Laboratory of Ocean and Atmosphere Studies of the National Institute for Space Research (LOA-INPE), Brazil](https://loa-inpe.github.io/en/)**, and the **[Institut des Géosciences de l’Environnement of the Université Grenoble Alpes (IGE-UGA), France](https://www.ige-grenoble.fr/)**. This activity is supported by the **CAPES–COFECUB Program** (Brazil–France Cooperation Program).
 
 The project seeks to improve our understanding of how climate variability and extreme events, including atmospheric rivers, influence cryospheric systems across a broad range of environments, from the Tropical Andes to the Antarctic Peninsula.
 
-The course is designed for **Master's and PhD students in Earth Sciences, Atmospheric Sciences, Oceanography, Glaciology, and related disciplines** interested in atmospheric boundary layer processes, surface energy balance, micrometeorology, and cryosphere–atmosphere interactions.
+The course is designed for **Master's and PhD students and early-career researchers in Earth Sciences, Atmospheric Sciences, Oceanography, Glaciology, and related disciplines** interested in atmospheric boundary layer processes, surface energy balance, micrometeorology, and cryosphere–atmosphere interactions.
 
 The training will be conducted **entirely in English** and will be offered **in person only**, with approximately **10–15 participants**.
 
@@ -27,9 +27,9 @@ The course combines theoretical lectures with practical exercises based on real 
 
 Applications are now open.
 
-Participation is limited to approximately **10–15 Master's and PhD students** due to the hands-on nature of the training course.
+Participation is limited to approximately **10–15 Master's and PhD students and early-career researchers** due to the hands-on nature of the training course.
 
-If you are interested in participating, please submit your application **[HERE](INSERT_APPLICATION_LINK)** by **10 July 2026**.
+If you are interested in participating, please submit your application **[HERE](https://docs.google.com/forms/d/e/1FAIpQLSfB7csMW5KeIJ8KOADeoYGSWmQYNX_sggRZZziCPMLX1BzwDQ/viewform?usp=publish-editor)** by **August 10, 2026**.
 
 For inquiries, please contact:
 
@@ -129,7 +129,7 @@ The course is supported by the following institutions:
 
 <br>
 
-<img src="assets/imgs/Workshop-Huaraz_Logos_V2.png" width="750"> <br>
+<img src="assets/imgs/logos.png" width="750"> <br>
 
 
 <br>

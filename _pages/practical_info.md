@@ -8,9 +8,9 @@ list_title: Practical Information
 
 # Application and Participant Selection
 
-If you would like to participate in the course, please submit your application **[HERE](INSERT_APPLICATION_LINK)** before **INSERT_DEADLINE**.
+If you would like to participate in the course, please submit your application **[HERE](https://docs.google.com/forms/d/e/1FAIpQLSfB7csMW5KeIJ8KOADeoYGSWmQYNX_sggRZZziCPMLX1BzwDQ/viewform?usp=publish-editor)** before **August 10, 2026**.
 
-Due to the hands-on nature of the training, participation is limited to approximately **10–15 Master's and PhD students**. Applicants will be notified of admission by email shortly after the application deadline.
+Due to the hands-on nature of the training, participation is limited to approximately **10–15 Master's and PhD students and early-career researchers**. Applicants will be notified of admission by email shortly after the application deadline.
 
 If you have any questions, please contact us at **[cryohydromettools@gmail.com](mailto:cryohydromettools@gmail.com)**.
 

@@ -23,20 +23,8 @@ Jorge is an Associate Professor at the Institute of Oceanography of the Universi
 <img src="assets/imgs/Sicart.png" width="200">
 </div>
 <div>
-Dr. Jean Emmanuel Sicart is a glaciologist at the IRD in the Institute for Environmental Geosciences
-(IGE). His studies focus on the energy balance of snow covers and glaciers in order improve the
-understanding of climate-glacier relationships.
-He headed the International Laboratory GREATICE and he is involved in the International Research
-Network ANDES, whose objectives are to: strengthen glaciological studies and monitoring networks
-in the tropical Andes, promote collaborative projects between Andean institutions, and develop
-education and student training programs with local universities.
-He was PI of an ANR project on the study of turbulence in glacial environments. Ha was PI and CoPI
-in several LabEx OSUG (University of Grenoble) and international projects investigating energy
-fluxes in mountain environments. He has supervised or co-supervised five PhD. Students. He is
-currently particularly involved in the European project: “Multi-scale transport and exchange processes
-in the atmosphere over mountains – programme and experiment, TEAMX european project”. One of
-the project&#39;s aims is to provide a unique observational dataset, which can be used to study a broad
-range of transport and exchange processes in mountainous terrain and their spatio-temporal variability.
+Dr. Jean Emmanuel Sicart is a glaciologist at the IRD in the Institute for Environmental Geosciences (IGE). His studies focus on the energy balance of snow covers and glaciers in order improve the understanding of climate-glacier relationships. He headed the International Laboratory GREATICE and he is involved in the International Research Network ANDES, whose objectives are to: strengthen glaciological studies and monitoring networks in the tropical Andes, promote collaborative projects between Andean institutions, and develop education and student training programs with local universities. He was PI of an ANR project on the study of turbulence in glacial environments. Ha was PI and CoPI in several LabEx OSUG (University of Grenoble) and international projects investigating energy fluxes in mountain environments. He has supervised or co-supervised five PhD. Students. He is currently particularly involved in the European project: “Multi-scale transport and exchange processes in the atmosphere over mountains – programme and experiment, TEAMX european project”. One of the project&#39;s aims is to provide a unique observational dataset, which can be used to study a broad range of transport and exchange processes in mountainous terrain and their spatio-temporal variability.
+
 </div>
 </div>
 <br>
@@ -46,10 +34,11 @@ range of transport and exchange processes in mountainous terrain and their spati
 # [Marcelo Freitas Santini](https://www.researchgate.net/profile/Marcelo-Santini)
 <div>
 <div style="float: left; padding: 10px">
-<img src="assets/imgs/Photo_V_Favier.jpg" width="200">
+<img src="assets/imgs/marcelo.jpg" width="200">
 </div>
 <div>
-........
+Marcelo is Associate Researcher at the Earth System Numerical Modeling Division of the National Institute for Space Research (INPE), member of the Surface Processes Group, working on studies of mass and energy exchanges between the surface and the atmosphere in the Institute’s numerical models. Holds a Bachelor's degree and a Ph.D. in Meteorology from the Federal University of Santa Maria (UFSM), as well as a Master's degree in Physical Oceanography from the University of São Paulo (USP). During his master's research, he investigated and characterized the thermohaline structure around the Antarctic Peninsula, with an emphasis on identifying water masses using in situ observations. During his Ph.D., he focused on ocean-atmosphere interactions, particularly heat and momentum fluxes in the southwestern South Atlantic, using observational datasets.He has completed four postdoctoral fellowships and currently serves as an advisor in the Postgraduate Program in Remote Sensing (PGSER), while collaborating with the Laboratory of Ocean  and Atmospheric Studies (LOA-INPE). His research is dedicated to the estimation of turbulent fluxes at the ocean-atmosphere interface, applying different methodologies to metocean datasets collected throughout the South Atlantic, from the austral region to the equatorial zone. He specializes in meteorological instrumentation for the study of turbulent fluxes (sensible and latent heat, CO₂, and momentum) and has experience in remote sensing, oceanographic campaigns, Antarctic expeditions and field camps, as well as extensive expertise in metocean data acquisition and instrumentation.
+
 </div>
 </div>
 <br>
@@ -62,7 +51,6 @@ range of transport and exchange processes in mountainous terrain and their spati
 <img src="assets/imgs/Christian_Torres_profile.jpg" width="200">
 </div>
 <div>
-
 Christian is a Postdoctoral Researcher at the Laboratory of Ocean and Atmosphere Studies (LOA) of the National Institute for Space Research (INPE), Brazil. His research focuses on the impacts of climate change, extreme weather events, and atmospheric rivers on the polar and Andean cryosphere, including glaciers and sea ice. He uses advanced tools such as coupled numerical models and high-resolution climate analyses to investigate the interactions between the ocean, atmosphere, and cryosphere. In addition, he leads international collaborative initiatives, including the [TROPIPOLAR-GLASCLIM](https://cryohydromettools.github.io/TROPIPOLAR-GLASCLIM-Workshop.github.io/) and TROPIPOLAR-CRYOEXTREMES projects, which aim to strengthen scientific and technical capacity among researchers across South America. These projects focus on understanding climate change, extreme weather events, and their impacts on cryospheric environments spanning from tropical to polar regions.
 
 </div>

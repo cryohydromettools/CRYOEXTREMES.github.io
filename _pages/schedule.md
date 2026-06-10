@@ -24,8 +24,6 @@ A detailed schedule will be provided to accepted participants before the start o
 
 ## Projects
 
-## Projects
-
 |  | Description |
 |----------|-------------|
 | **Bulk Method** | Estimation of sensible and latent heat fluxes over oceanic and glacier surfaces using bulk aerodynamic formulations and standard meteorological observations. |

@@ -10,11 +10,11 @@ The projects are designed to provide hands-on experience with real observations 
 
 ### Project 1 – Surface Energy Fluxes Using the Bulk Method over Ocean and Glacier Surfaces
 
-*Jorge Arigony-Neto, Marcelo Santini, and Jean Emmanuel Sicart*
+*Jorge Arigony-Neto, Marcelo Santini, and Jean Emmanuel Sicart, Christian Torres*
 
 <div>
 <div style="float: left; padding: 10px">
-<img src="assets/imgs/energy_balance.png" width="400">
+<img src="assets/imgs/Boias _1.jpeg" width="400">
 </div>
 <div>
 The objective of this project is to estimate and analyze turbulent heat fluxes over oceanic and glacier environments using bulk aerodynamic methods.
@@ -32,11 +32,11 @@ The project will introduce the physical basis of bulk transfer formulations and 
 
 ### Project 2 – Eddy Covariance Data Processing with EddyPro
 
-*Jorge Arigony-Neto, Marcelo Santini, and Jean Emmanuel Sicart*
+*Jorge Arigony-Neto, Marcelo Santini, and Jean Emmanuel Sicart, Christian Torres*
 
 <div>
 <div style="float: left; padding: 10px">
-<img src="assets/imgs/eddy_covariance.png" width="400">
+<img src="assets/imgs/eddy_covariance.jpeg" width="400">
 </div>
 <div>
 The objective of this project is to learn the fundamentals of eddy covariance measurements and the processing of high-frequency micrometeorological observations.
