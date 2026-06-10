@@ -14,7 +14,7 @@ The projects are designed to provide hands-on experience with real observations 
 
 <div>
 <div style="float: left; padding: 10px">
-<img src="assets/imgs/Boias _1.jpeg" width="400">
+<img src="assets/imgs/Boias.jpeg" width="400">
 </div>
 <div>
 The objective of this project is to estimate and analyze turbulent heat fluxes over oceanic and glacier environments using bulk aerodynamic methods.
