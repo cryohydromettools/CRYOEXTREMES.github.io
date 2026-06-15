@@ -26,9 +26,10 @@ The course is intended for Master's and PhD students, early-career researchers, 
 * Polar and mountain environments
 * Environmental data analysis
 
-Basic knowledge of atmospheric science, meteorology, climatology, glaciology, or related disciplines is recommended.
+Basic knowledge of atmospheric science, meteorology, climatology, glaciology, oceanology, or related disciplines is recommended.
 
-Some prior experience with **Python programming** is desirable but not mandatory.
+Some prior experience with scientific programming is desirable but not mandatory. The practical activities and examples presented during the course will be developed in **[Python](https://www.python.org/)**, which will serve as the primary programming language for instruction. However, participants are welcome to use other programming languages or software environments (e.g., R, MATLAB, Julia, or similar tools) according to their own experience and research needs. While the instructors will primarily provide support and examples in **[Python](https://www.python.org/)**, the scientific concepts and methodologies discussed during the course can be applied using any suitable computational framework.
+
 
 ## Costs
 
@@ -54,9 +55,11 @@ Participants **must bring their own laptop computer**.
 * Administrative privileges to install software if needed
 * Stable Wi-Fi connectivity capability
 
-The practical sessions involving eddy covariance data processing will use **EddyPro software**, which requires local installation on participants' computers.
+The practical sessions involving eddy-covariance data processing will use **[EddyPro® software](https://www.licor.com/env/support/EddyPro/topics/eddypro.html) (LI-COR Environmental)**, which requires local installation on participants' computers. Please note that EddyPro is currently available only for **Windows and macOS** operating systems.
 
-For Python-based exercises, participants will use **Google Colab**, allowing all analyses to be performed through a web browser without requiring local software installation.
+Participants using Linux or other unsupported systems are encouraged to work in small groups with colleagues who have access to a compatible computer. Group work during the EddyPro exercises is fully acceptable and may facilitate discussion and collaborative learning. All subsequent data analysis and interpretation activities can be carried out using Python or other software environments preferred by the participants.
+
+For Python-based exercises, participants will use **[Google Colab](https://colab.research.google.com/)**, allowing all analyses to be performed through a web browser without requiring local software installation.
 
 Datasets, notebooks, and course materials will be provided by the instructors.
 
@@ -74,7 +77,7 @@ Additional information regarding the exact classroom location and campus access 
 
 Participants may arrive through one of the following airports:
 
-* **Pelotas International Airport (PET)**, located approximately 60 km from Rio Grande.
+* **Pelotas Airport (PET)**, located approximately 60 km from Rio Grande.
 * **Porto Alegre International Airport (POA)**, located approximately 320 km from Rio Grande and offering the largest number of domestic and international connections.
 
 ### By Bus
@@ -85,7 +88,7 @@ Additional transportation information and recommendations will be provided to ac
 
 ## Accommodation and Meals
 
-Rio Grande offers a variety of accommodation options, including hotels, guesthouses, and short-term rentals located near the university campus and city center.
+Rio Grande or Cassino offers a variety of accommodation options, including hotels, guesthouses, and short-term rentals located near the university campus and city center.
 
 Participants are responsible for arranging their own accommodation and meals.
 

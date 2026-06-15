@@ -11,7 +11,7 @@ list_title: Home
 
 The **International Training Course on the Atmospheric Boundary Layer and Energy Balance over Glacier and Ocean Surfaces** will take place from **19–23 October 2026** at the **Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG), Rio Grande, Brazil**.
 
-The course is organized within the framework of the project **"Extreme Events and Climate Change: Impacts on the Cryosphere from the Tropical to the Polar Regions (TROPIPOLAR-CRYOEXTREMES)"**, a collaborative initiative involving the **[Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG), Brazil](https://io.furg.br/)**, the **[Laboratory of Ocean and Atmosphere Studies of the National Institute for Space Research (LOA-INPE), Brazil](https://loa-inpe.github.io/en/)**, and the **[Institut des Géosciences de l’Environnement of the Université Grenoble Alpes (IGE-UGA), France](https://www.ige-grenoble.fr/)**. This activity is supported by the **CAPES–COFECUB Program** (Brazil–France Cooperation Program).
+The course is organized within the framework of the project **"Extreme Events and Climate Change: Impacts on the Cryosphere from the Tropical to the Polar Regions (TROPIPOLAR-CRYOEXTREMES)"**, a collaborative initiative involving the **[Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG), Brazil](https://io.furg.br/)**, the **[Laboratory of Ocean and Atmosphere Studies of the National Institute for Space Research (LOA-INPE), Brazil](https://www.loa-inpe.com.br)**, and the **[Institut des Géosciences de l’Environnement of the Université Grenoble Alpes (IGE-UGA), France](https://www.ige-grenoble.fr/)**. This activity is supported by the **CAPES–COFECUB Program** (Brazil–France Cooperation Program).
 
 The project seeks to improve our understanding of how climate variability and extreme events, including atmospheric rivers, influence cryospheric systems across a broad range of environments, from the Tropical Andes to the Antarctic Peninsula.
 
@@ -19,7 +19,7 @@ The course is designed for **Master's and PhD students and early-career research
 
 The training will be conducted **entirely in English** and will be offered **in person only**, with approximately **10–15 participants**.
 
-The course combines theoretical lectures with practical exercises based on real atmospheric and micrometeorological datasets collected over the Atlantic Ocean and the Antarctic Peninsula.
+The course combines theoretical lectures with practical exercises using real atmospheric and micrometeorological datasets collected over the Southern Ocean and the South Shetland Islands, located in the northern Antarctic Peninsula.
 
 ---
 
@@ -52,19 +52,19 @@ By the end of the course, participants will be able to:
 
 # Real Data: Preprocessing and Analysis
 
-During the training course, participants will work with real micrometeorological datasets collected in the Atlantic Ocean and the Northern Antarctic Peninsula as part of the ATMOS projects.
+During the training course, participants will work with real micrometeorological datasets collected in the over the Southern Ocean and the South Shetland Islands, located in the northern Antarctic Peninsula as part of the ATMOS projects.
 
 The data were obtained using eddy covariance systems installed on:
 
-* A research vessel operating in the Atlantic Ocean
-* A micrometeorological station at Comandante Ferraz Antarctic Station
+* meteo-oceanographic buoy install in the Bransfield Strait
+* A micrometeorological station at the Penguin Island
 
 These datasets include high- and low-frequency measurements of atmospheric variables and turbulent fluxes, allowing detailed analysis of surface–atmosphere interactions in contrasting environments.
 
 The practical component of the course will cover:
 
-* Data preprocessing using EddyPro, including quality control and flux computation
-* Post-processing and analysis using Python, focusing on:
+* Data preprocessing using [EddyPro®](https://www.licor.com/env/support/EddyPro/topics/eddypro.html), a software package developed by LI-COR Environmental. This processing includes data quality control, coordinate rotation, frequency-response corrections, and turbulent flux computation.
+* Post-processing, visualization, and analysis using Python, focusing on:
 
   * Time series analysis
   * Energy balance closure
@@ -83,7 +83,7 @@ The training course will include:
 
 * **Theoretical Lectures**: Participants will receive a comprehensive introduction to atmospheric boundary layer processes, surface energy balance, turbulence, and atmosphere–surface interactions over oceanic and cryospheric environments. Special attention will be given to stable boundary layers over glaciers and snow-covered surfaces, as well as oceanic boundary layer dynamics.
 
-* **Hands-on Practical Sessions**: Participants will work with real micrometeorological datasets collected during the ATMOS projects in the Atlantic Ocean and the northern Antarctic Peninsula. Practical activities will include data preprocessing using EddyPro, quality control procedures, flux calculations, and data analysis using Python.
+* **Hands-on Practical Sessions**: Participants will work with real micrometeorological datasets collected during the ATMOS projects in the Bransfield Strait and Penguin Island. Practical activities will include data preprocessing using [EddyPro®](https://www.licor.com/env/support/EddyPro/topics/eddypro.html), quality control procedures, flux calculations, and data analysis using Python.
 
 * **Case Studies and Group Discussions**: Participants will analyze energy flux partitioning and atmospheric boundary layer characteristics in contrasting environments, including oceanic and glacier-influenced regions. Results will be discussed collectively to strengthen understanding of the underlying physical processes.
 
@@ -117,7 +117,7 @@ Contact: [cryohydromettools@gmail.com](mailto:cryohydromettools@gmail.com)
 
 The course is sponsored by the project **“Extreme Events and Climate Change: Impacts on the Cryosphere from the Tropical to the Polar Regions (TROPIPOLAR-CRYOEXTREMES)”**, supported through international scientific cooperation between Brazil and France.
 
-The course also receives support from the **Antarctic Modeling Observation System (ATMOS2) Project**, led by the **[Laboratory of Ocean and Atmosphere Studies of the National Institute for Space Research (LOA-INPE)](https://loa-inpe.github.io/en/)**, which focuses on advancing the understanding of air–sea interactions, atmospheric boundary layer processes, and turbulent fluxes over the South Atlantic Ocean and the Antarctic region.
+The course also receives support from the **Antarctic Modeling Observation System (ATMOS2) Project**, led by the **[Laboratory of Ocean and Atmosphere Studies of the National Institute for Space Research (LOA-INPE)](https://www.loa-inpe.com.br)**, which focuses on advancing the understanding of air–sea interactions, atmospheric boundary layer processes, and turbulent fluxes over the South Atlantic Ocean and the Antarctic region.
 
 The training activity is further supported by the **Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG)**, the **LOA-INPE**, and the **Institut des Géosciences de l’Environnement of the Université Grenoble Alpes (IGE-UGA)**.
 
