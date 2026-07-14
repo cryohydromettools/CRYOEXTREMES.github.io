@@ -6,7 +6,7 @@ title: Projects
 
 The practical component of this training course is organized around three project options. Participants may choose one of the predefined projects focused on atmosphere–surface interactions over oceanic and glaciological environments, or they may bring their own dataset and research question.
 
-The projects are designed to provide hands-on experience with real observations collected during the ATMOS field campaigns in the Southern Ocean and the South Shetland Islands, located in the northern Antarctic Peninsula.
+The projects are designed to provide hands-on experience with real observations collected during the ATMOS field campaigns in the Southern Ocean and the South Shetland Islands, located in the northern Antarctic Peninsula, as well as eddy covariance datasets collected by the Institut des Géosciences de l'Environnement (IGE) and the Institut de Recherche pour le Développement (IRD) on Zongo Glacier (Bolivia) and glaciers in the French Alps. These datasets enable participants to investigate and compare atmosphere–surface interactions across oceanic, polar, temperate, and tropical glacier environments.
 
 The course will be primarily focused on the analysis of the surface energy balance, with particular emphasis on radiative fluxes, sensible heat flux, latent heat flux, and their role in atmosphere–surface exchanges over oceanic and cryospheric environments. As an additional opportunity, the high-frequency eddy-covariance observations used in the course also provide measurements of CO₂ fluxes and momentum fluxes. While these variables are not the main focus of the training, they may be of particular interest to participants working on carbon exchange, boundary-layer processes, or air–sea and atmosphere–ice interactions.
 
