@@ -24,7 +24,9 @@ The objective of this project is to estimate and analyze the surface energy bala
 
 Participants will work with meteorological and oceanographic observations collected from a meteo-oceanographic buoy deployed in the Bransfield Strait. Using standard atmospheric, oceanic, and radiative measurements, they will estimate sensible heat flux, latent heat flux, net shortwave radiation, net longwave radiation, and the resulting surface energy balance. The analysis will investigate the role of atmospheric stability, wind speed, air–sea temperature differences, cloud cover, and other environmental factors in controlling air–sea exchanges.
 
-The project will introduce the physical basis of bulk transfer formulations and provide practical experience in estimating turbulent surface fluxes using the [COARE 3.6 bulk flux algorithm](https://github.com/NOAA-PSL/COARE-algorithm), developed by NOAA's Physical Sciences Laboratory. Participants will learn how to apply the algorithm to real observations and evaluate the variability of heat exchanges under different meteorological conditions in the Southern Ocean.
+The project will introduce the physical basis of bulk transfer formulations and provide practical experience in estimating turbulent surface fluxes using the <a href="https://github.com/NOAA-PSL/COARE-algorithm" target="_blank">
+COARE 3.6 bulk flux algorithm
+</a>, developed by NOAA's Physical Sciences Laboratory. Participants will learn how to apply the algorithm to real observations and evaluate the variability of heat exchanges under different meteorological conditions in the Southern Ocean.
 
 The project is particularly relevant for students interested in boundary-layer meteorology, air–sea interaction processes, surface energy balance studies, and climate-related applications.
 
@@ -47,7 +49,9 @@ The project is particularly relevant for students interested in boundary-layer m
 
 The objective of this project is to learn the fundamentals of eddy-covariance measurements and the processing of high-frequency micrometeorological observations.
 
-Participants will work with real datasets collected from a micrometeorological tower installed on Penguin Island, South Shetland Islands, in the northern Antarctic Peninsula region. Using the [EddyPro® software](https://www.licor.com/env/support/EddyPro/topics/eddypro.html) (LI-COR Environmental) in **Basic Mode**, they will perform standard data processing, including quality control procedures and turbulent flux calculations.
+Participants will work with real datasets collected from a micrometeorological tower installed on Penguin Island, South Shetland Islands, in the northern Antarctic Peninsula region. Using the <a href="https://www.licor.com/env/support/EddyPro/topics/eddypro.html" target="_blank">
+EddyPro® software
+</a> (LI-COR Environmental) in **Basic Mode**, they will perform standard data processing, including quality control procedures and turbulent flux calculations.
 
 The project will cover the theoretical basis of turbulent exchanges and provide practical experience in estimating sensible heat and latent heat fluxes from high-frequency observations. Particular emphasis will be placed on understanding the role of turbulent fluxes in the surface energy balance and on evaluating the temporal variability of surface–atmosphere exchanges under different environmental conditions.
 

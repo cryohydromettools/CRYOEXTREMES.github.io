@@ -45,13 +45,34 @@ Marcelo is Associate Researcher at the Earth System Numerical Modeling Division 
 <br>
 <br>
 
+# [Celina Cândida Ferreira Rodrigues](http://lattes.cnpq.br/1486257464725434)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/celina.jpeg" width="200">
+</div>
+<div>
+Celina is a Young Researcher supported by the Serrapilheira Institute and FAPERJ at the Laboratory of Chemical Oceanography (LABOQUI), Rio de Janeiro State University (UERJ), and collaborates with the Laboratory of Ocean and Atmospheric Studies (LOA) at the National Institute for Space Research (INPE). She is the Principal Investigator of the <a href="https://serrapilheira.org/en/projetos/how-do-climate-changes-influence-co2-exchanges-in-brazilian-biomes-the-blue-amazon-the-southwest-atlantic-and-antarctic-oceans/" target="_blank">
+BIOMAR CO₂
+</a> Project, which investigates how climate change affects CO₂ exchanges across Brazilian biomes, the Blue Amazon, the Southwestern Atlantic Ocean, and the Southern Ocean. Her research focuses on Earth system science, particularly turbulent carbon fluxes between the ocean, terrestrial ecosystems, and the atmosphere, combining micrometeorological observations, oceanographic measurements, remote sensing, and reanalysis products. She has extensive experience in meteorological and oceanographic instrumentation, metocean data acquisition, oceanographic cruises, and Antarctic expeditions. She is actively involved in several national research initiatives, including ATMOS 2.0, CALMAR, CAPESSA, and INCT-Cryosphere, contributing to multidisciplinary studies on ocean–atmosphere interactions, climate variability, carbon cycling, and polar and tropical environments. In addition to her research activities, she actively promotes scientific outreach and international collaboration through research networks, educational initiatives, and programs that encourage the participation of women, underrepresented groups, and young students in Earth, Climate, and Ocean Sciences. 
+
+</div>
+</div>
+<br>
+<br>
+<br>
+
+
 # [Christian Torres](https://www.researchgate.net/profile/Christian-Torres-27)
 <div>
 <div style="float: left; padding: 10px">
 <img src="assets/imgs/Christian_Torres_profile.jpg" width="200">
 </div>
 <div>
-Christian is a Postdoctoral Researcher at the Laboratory of Ocean and Atmosphere Studies (LOA) of the National Institute for Space Research (INPE), Brazil. His research focuses on the impacts of climate change, extreme weather events, and atmospheric rivers on the polar and Andean cryosphere, including glaciers and sea ice. He uses advanced tools such as coupled numerical models and high-resolution climate analyses to investigate the interactions between the ocean, atmosphere, and cryosphere. In addition, he leads international collaborative initiatives, including the [TROPIPOLAR-GLASCLIM](https://cryohydromettools.github.io/TROPIPOLAR-GLASCLIM-Workshop.github.io/) and TROPIPOLAR-CRYOEXTREMES projects, which aim to strengthen scientific and technical capacity among researchers across South America. These projects focus on understanding climate change, extreme weather events, and their impacts on cryospheric environments spanning from tropical to polar regions.
+Christian is a Postdoctoral Researcher at the Laboratory of Ocean and Atmosphere Studies (LOA) of the National Institute for Space Research (INPE), Brazil. His research focuses on the impacts of climate change, extreme weather events, and atmospheric rivers on the polar and Andean cryosphere, including glaciers and sea ice. He uses advanced tools such as coupled numerical models and high-resolution climate analyses to investigate the interactions between the ocean, atmosphere, and cryosphere. In addition, he leads international collaborative initiatives, including the <a href="https://cryohydromettools.github.io/TROPIPOLAR-GLASCLIM-Workshop.github.io/" target="_blank">
+TROPIPOLAR-GLASCLIM
+</a> and <a href="https://cryohydromettools.github.io/CRYOEXTREMES.github.io/" target="_blank">
+TROPIPOLAR-CRYOEXTREMES
+</a> projects, which aim to strengthen scientific and technical capacity among researchers across South America. These projects focus on understanding climate change, extreme weather events, and their impacts on cryospheric environments spanning from tropical to polar regions.
 
 </div>
 </div>

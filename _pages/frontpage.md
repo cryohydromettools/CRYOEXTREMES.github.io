@@ -105,6 +105,7 @@ Course organizers:
 Jorge Arigony-Neto (Universidade Federal do Rio Grande – FURG, Brazil) <br>
 Luciano Pezzi (National Institute for Space Research – INPE, Brazil) <br>
 Marcelo Freitas Santini (National Institute for Space Research – INPE, Brazil) <br>
+Celina Cândida Ferreira Rodrigues, (Rio de Janeiro State University – UERJ, Brazil) <br>
 Christian Torres (National Institute for Space Research – INPE, Brazil) <br>
 Jean Emmanuel Sicart (Institut des Géosciences de l’Environnement of the Université Grenoble Alpes - IGE, UGA, IRD, France) <br>
 
