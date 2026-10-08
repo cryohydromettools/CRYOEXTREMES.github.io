@@ -123,6 +123,8 @@ The course also receives support from the **Antarctic Modeling Observation Syste
 
 The training activity is further supported by the **Institute of Oceanography of the Universidade Federal do Rio Grande (IO-FURG)**, the **LOA-INPE**, and the **Institut des Géosciences de l’Environnement of the Université Grenoble Alpes (IGE-UGA)**.
 
+The organizers would also like to express their sincere appreciation to the Eliézer de C. Rios Oceanographic Museum, the Nautical Museum, the Antarctic Museum, the Ilha da Pólvora Ecomuseum, and the Centro de Convívio dos Meninos do Mar (CCMar) of the Universidade Federal do Rio Grande (FURG) for their valuable logistical support during the field excursion to the Patos Lagoon Estuary, as well as for hosting social and cultural activities at the university's museums.
+
 <br>
 
 # Participating Institutions
