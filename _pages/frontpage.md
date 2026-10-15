@@ -92,7 +92,7 @@ The training course will include:
 
 <br>
 
-A preliminary program will be available soon.
+The preliminary course schedule details the daily breakdown of lectures and labs, and can be found [HERE](assets/cryoextremes_course_schedule.pdf).
 
 <br>
 

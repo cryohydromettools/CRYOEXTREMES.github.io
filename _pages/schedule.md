@@ -4,7 +4,7 @@ layout: page
 title: Schedule
 ---
 
-The preliminary course schedule will be available soon.
+The preliminary course schedule details the daily breakdown of lectures and labs, and can be found [HERE](assets/cryoextremes_course_schedule.pdf).
 
 <!---
 A detailed schedule will be provided to accepted participants before the start of the course.

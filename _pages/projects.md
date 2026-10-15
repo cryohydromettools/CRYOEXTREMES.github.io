@@ -4,7 +4,9 @@ layout: page
 title: Projects
 ---
 
-The practical component of this training course is organized around three project options. Participants may choose one of the predefined projects focused on atmosphere–surface interactions over oceanic and glaciological environments, or they may bring their own dataset and research question.
+During the course, participants work with real-world low- and high-frequency data collected in the Antarctic Peninsula (Penguin Island tower and Bransfield Strait buoy measurements) during the Antarctic Modeling Observation System (ATMOS2) Project, at the Hintereisferner glacier (Austria) during the Second Hintereisferner Experiment (HEFEX II), at the Zongo Glacier (Bolivia), and at the Patos Lagoon estuary. Full information regarding the HEFEX II experiment can be found in Nicholson et al. (2025). Technical information regarding the measurements at Zongo Glacier can be found in Litt et al. (2015).
+
+All practical materials, notebooks, and workflows can be accessed directly in the [CRYOEXTREMES Practicals GitHub Repository](https://github.com/cryohydromettools/cryoextremes-practicals).
 
 The projects are designed to provide hands-on experience with real observations collected during the ATMOS field campaigns in the Southern Ocean and the South Shetland Islands, located in the northern Antarctic Peninsula, as well as eddy covariance datasets collected by the Institut des Géosciences de l'Environnement (IGE) and the Institut de Recherche pour le Développement (IRD) on Zongo Glacier (Bolivia) and glaciers in the French Alps. These datasets enable participants to investigate and compare atmosphere–surface interactions across oceanic, polar, temperate, and tropical glacier environments.
 
