@@ -92,7 +92,7 @@ The training course will include:
 
 <br>
 
-The preliminary course schedule details the daily breakdown of lectures and labs, and can be found [HERE](assets/cryoextremes_course_schedule.pdf).
+The preliminary course schedule details the daily breakdown of lectures and labs, and can be found [HERE](https://github.com/cryohydromettools/CRYOEXTREMES.github.io/blob/main/assets/cryoextremes%20_course_schedule.pdf).
 
 <br>
 
